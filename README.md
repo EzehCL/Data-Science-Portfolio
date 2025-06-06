@@ -57,6 +57,7 @@
 # Skills
 **Soft Skills**
 - Teamwork, Excellent communication, Stakeholder management, Report building, Project timing, Open-minded, Critical and innovative thinker, Proactive, Appreciate Feedback.
+  
 **Technical Skill**
 - Six Sigma Methodology, Operational Excellence, Lean Management, Microsoft Outlook Calendar, Microsoft Office, and Google Docs              
 
