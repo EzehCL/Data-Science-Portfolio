@@ -1,34 +1,34 @@
 # Data-Science-Portfolio
 
 # Projects
-# Project 1
+### Project 1
 - Description
 - Links
 
-## Project 2
+### Project 2
 - Description
 - Links
 
-## Project 3
+### Project 3
 - Description
 - Links
 
-## Project 4
+### Project 4
 - Description
 - Links
 
-## Project 5
+### Project 5
 - Description
 - Links
 
-## Project 6
+### Project 6
 - Description
 - Links
 
-## Education
+# Education
 - University 1
 - University 1
 
-## Certifcate
+# Certificate
 - Description
 - Links
