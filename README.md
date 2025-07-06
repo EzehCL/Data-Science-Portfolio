@@ -3,6 +3,7 @@
 # Projects
 ### Project 1
 **Data Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
+- Project link (https://drive.google.com/file/d/1nAdT2bTuKYYVSV4RCInYN08ujtEmsnZP/view?usp=drive_link) 
 - Developed an interactive dashboard using Power BI to track customer demographics and sales performance, providing actionable insights for the marketing and sales teams.
 - Analysed customer behaviour data to identify trends and preferences, leading to a 12% increase in sales and profit margin as well as improving customer retention through targeted marketing promotions (product discount).
 
