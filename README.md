@@ -27,7 +27,7 @@
 
 ### Project 4
 **Machine Learning Analyst-Heart Disease Risk Prediction Model for Early Intervention–Parkway Pantai Healthcare, India (_Jan 2025 – Feb 2025_)**
-Project link (https://drive.google.com/file/d/1AlgQkKvrLLZNLbQzf7jmzu51Ga-DYRJJ/view?usp=drive_link)
+- Project link (https://drive.google.com/file/d/1AlgQkKvrLLZNLbQzf7jmzu51Ga-DYRJJ/view?usp=drive_link)
 
 - Developed and deployed machine learning models to predict heart disease risk, achieving an accuracy score of 73% and improving early detection and prevention efforts
 - Conducted exploratory data analysis (EDA) on large datasets of patient information, identifying key risk factors and correlations that informed model development.
