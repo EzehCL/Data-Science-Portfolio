@@ -4,6 +4,7 @@
 ### Project 1
 **Data Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
 - [Project](https://drive.google.com/file/d/1nAdT2bTuKYYVSV4RCInYN08ujtEmsnZP/view?usp=drive_link)
+- [Business Intelligence Report](https://drive.google.com/file/d/14GfMExtPyflXIOP60hlSArU2bLbnfoyQ/view?usp=drive_link)
   
 - Developed an interactive dashboard using Power BI to track customer demographics and sales performance, providing actionable insights for the marketing and sales teams.
 - Analysed customer behaviour data to identify trends and preferences, leading to a 12% increase in sales and profit margin as well as improving customer retention through targeted marketing promotions (product discount).
@@ -21,6 +22,7 @@
 ### Project 3
 **Data Analyst for Real Estate Stakeholders Project Industry (_Jan 2025 – Feb 2025_)**
 - [Project](https://drive.google.com/file/d/1EsBqYiWKw7d3SK6RzcV1t71AeEh-Tcm_/view?usp=drive_link)
+- [Business Intelligence Report](https://drive.google.com/file/d/1_1EbIOlWNyUrQSruXQs423lRmObGF2a8/view?usp=drive_link)
 
 - Created a dashboard using Power BI to consolidate crucial information from different aspects of real estate into a central, visual interface. It enables property owners, investors, and real estate professionals to analyse, monitor, and draw actionable conclusions from key performance indicators (KPIs) relevant to market trends and property characteristics.
 - Provided reports to stakeholders on market performance, property valuations, and investment opportunities, enabling data-driven decision-making.
@@ -36,6 +38,7 @@
 ### Project 5
 **Data Analyst--Customer Retention and Performance Monitoring Dashboard – Ons Huis, Netherlands (_March 2020 – May 2020_)**
 - [Project](https://docs.google.com/spreadsheets/d/1IUalI6zCC1hw-A6R_MYvj6BelLBAE2gg/edit?usp=drive_link&ouid=109834936804106220766&rtpof=true&sd=true)
+- [Business Intelligence Report](https://drive.google.com/file/d/16CcuViWLgNjG4HeBcP7bi_xN6xzLgrmQ/view?usp=drive_link)
   
 - Created data visualisation and dashboards and maintained dashboards using Excel, enabling stakeholders to track key performance indicators (KPIs) in real-time
 - Analysed large datasets to identify trends, patterns, and insights that informed business decisions, resulting in a 10% increase in customer retention
