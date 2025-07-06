@@ -2,7 +2,7 @@
 
 # Projects
 ### Project 1
-**Data Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
+**Business Intelligence Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
 - [Project](https://drive.google.com/file/d/1nAdT2bTuKYYVSV4RCInYN08ujtEmsnZP/view?usp=drive_link)
 - [Business Intelligence Report](https://drive.google.com/file/d/14GfMExtPyflXIOP60hlSArU2bLbnfoyQ/view?usp=drive_link)
   
