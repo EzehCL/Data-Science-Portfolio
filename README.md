@@ -3,12 +3,12 @@
 # Projects
 ### Project 1
 **Data Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
-- Developed dashboards using Power BI to track customer demographics and sales performance, providing actionable insights for the marketing and sales teams.
+- Developed an interactive dashboard using Power BI to track customer demographics and sales performance, providing actionable insights for the marketing and sales teams.
 - Analysed customer behaviour data to identify trends and preferences, leading to a 12% increase in sales and profit margin as well as improving customer retention through targeted marketing promotions (product discount).
 
 
 ### Project 2
-**Machine Learning Analyst– Bajaj Finserv, India (_Feb 2025 – March 2025_)**
+**Machine Learning Analyst– Machine Learning-Driven Loan Risk Prediction and Approval Optimization -- Bajaj Finserv, India (_Feb 2025 – March 2025_)**
 - Developed and deployed machine learning models to predict loan defaulters, resulting in an 18% reduction in default rates and a 13% increase in loan approval rates for low-risk applicants.
 - Implemented supervised learning algorithms such as logistic regression, random forest, K-nearest neighbours, and Adaboost to classify loan applicants as high or low, achieving an 81% accuracy rate.
 - Integrated machine learning models into the loan approval process, streamlining decision-making and reducing manual review time by 40%.
