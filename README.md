@@ -57,10 +57,13 @@
 - Higher National Diploma (HND) in Business Administration & Management @ Abia State Polytechnic, Aba, Abia State, Nigeria  2010 - 2015
 
 # Certification
-** Certificate in Data Science @ Xaltius Academy (_September 2024 - March 2025_)**
-- Data Extraction and Preprocessing: Cleaning, transforming, and preparing data for analysis
-- Data Visualization: Using plots, charts, and other visualizations to communicate insights
-- Machine Learning; Building models to predict outcomes, classify data and identify patterns
+** Certificate in Data Science @ Xaltius Academy The Philippines (Online)(_September 2024 - March 2025_)**
+- Machine Learning with Python: Completed practical training in Machine Learning, gaining hands-on experience in data preprocessing, model building, and predictive analysis
+-	Power BI: To build interactive dashboards to visualize and analyse business data. from multiple data sources.
+-	Microsoft Excel: To use Pivot Tables to summarize and analyse large datasets easily, and to connect with multiple data sources with Power Query
+-	Storytelling (with data): To turn data insights into a clear narrative that explains “what happened, why it matters, and what to do next.”
+-	Structured Query Language (SQL): To create and retrieve data from a relational database
+
 
 # Frameworks
 - Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
