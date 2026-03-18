@@ -2,46 +2,53 @@
 
 # Projects
 ### Project 1
-**Business Intelligence Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_Feb. 2025 – March 2025_)**
+**Business Intelligence Analyst – Customer Insights & Sales Optimization – Shopee Brazil (_March 2025 – April 2025_)**
 - [Project](https://drive.google.com/file/d/1nAdT2bTuKYYVSV4RCInYN08ujtEmsnZP/view?usp=drive_link)
 - [Business Intelligence Report](https://drive.google.com/file/d/14GfMExtPyflXIOP60hlSArU2bLbnfoyQ/view?usp=drive_link)
   
-- Developed an interactive dashboard using Power BI to track customer demographics and sales performance, providing actionable insights for the marketing and sales teams.
-- Analysed customer behaviour data to identify trends and preferences, leading to a 12% increase in sales and profit margin as well as improving customer retention through targeted marketing promotions (product discount).
+- Conducted in-depth data analyses on customer behaviour, uncovering key correlations that boosted customer retention and increased sales by 12%.
+-	Improved marketing ROI through the design of Power BI dashboards that help track customer demographics and sales performance 
+-	Delivered actionable insights to enhance user engagement and conversion across multiple marketing channels.
+
 
 
 ### Project 2
-**Machine Learning Analyst– Machine Learning-Driven Loan Risk Prediction and Approval Optimization -- Bajaj Finserv, India (_Feb 2025 – March 2025_)**
+**Machine Learning Analyst– Machine Learning-Driven Loan Risk Prediction and Approval Optimization -- Bajaj Finserv, India (_March 2025 – April 2025_)**
 - [Project](https://drive.google.com/file/d/1UohW1cxnwDuJZFXfxWgR5KDM43UW-rKn/view?usp=drive_link)
   
-- Developed and deployed machine learning models to predict loan defaulters, resulting in an 18% reduction in default rates and a 13% increase in loan approval rates for low-risk applicants.
-- Implemented supervised learning algorithms such as logistic regression, random forest, K-nearest neighbours, and Adaboost to classify loan applicants as high or low, achieving an 81% accuracy rate.
-- Integrated machine learning models into the loan approval process, streamlining decision-making and reducing manual review time by 40%.
+-	Developed supervised learning models (Random Forest, Logistic Regression, KNN) to predict loan defaults with 81% accuracy.
+-	Analyzed and built datasets for training, improving decision-making efficiency by 40% and reducing default rates by 18%.
+-	Presented model results and recommendations clearly to non-technical stakeholders.
+
 
 
 ### Project 3
-**Data Analyst for Real Estate Stakeholders Project Industry (_Jan 2025 – Feb 2025_)**
+**Data Analyst for Real Estate Stakeholders Project Industry (_Feb. 2025 – March 2025_)**
 - [Project](https://drive.google.com/file/d/1EsBqYiWKw7d3SK6RzcV1t71AeEh-Tcm_/view?usp=drive_link)
 - [Business Intelligence Report](https://drive.google.com/file/d/1_1EbIOlWNyUrQSruXQs423lRmObGF2a8/view?usp=drive_link)
 
-- Created a dashboard using Power BI to consolidate crucial information from different aspects of real estate into a central, visual interface. It enables property owners, investors, and real estate professionals to analyse, monitor, and draw actionable conclusions from key performance indicators (KPIs) relevant to market trends and property characteristics.
-- Provided reports to stakeholders on market performance, property valuations, and investment opportunities, enabling data-driven decision-making.
+- Built interactive dashboards consolidating property KPIs to enable real-time market analysis for investors and stakeholders.
+-	Performed exploratory data analysis (EDA) to identify trends and correlations, improving investment decision-making accuracy.
+-	Improved KPI visibility and report, supporting a data-driven culture across teams.
+
 
 ### Project 4
-**Machine Learning Analyst-Heart Disease Risk Prediction Model for Early Intervention–Parkway Pantai Healthcare, India (_Jan 2025 – Feb 2025_)**
+**Machine Learning Analyst-Heart Disease Risk Prediction Model for Early Intervention–Parkway Pantai Healthcare, India (_Feb. 2025 – March 2025_)**
 - [Project](https://drive.google.com/file/d/1AlgQkKvrLLZNLbQzf7jmzu51Ga-DYRJJ/view?usp=drive_link)
 
-- Developed and deployed machine learning models to predict heart disease risk, achieving an accuracy score of 73% and improving early detection and prevention efforts
-- Conducted exploratory data analysis (EDA) on large datasets of patient information, identifying key risk factors and correlations that informed model development.
-- Enhanced healthcare outcomes through the prediction of heart disease, positively impacting patients’ well-being.
+- Achieved an accuracy score of 73% to predict heart disease through the development of a machine learning model. This helped with early detection and aided prevention efforts
+-	Conducted exploratory data analysis (EDA) on large datasets of patient information, identifying key risk factors and correlations that informed model development.
+-	Enhanced healthcare outcomes through the prediction of heart disease, positively impacting patients’ well-being.
+
+
 
 ### Project 5
 **Data Analyst--Customer Retention and Performance Monitoring Dashboard – Ons Huis, Netherlands (_March 2020 – May 2020_)**
 - [Project](https://docs.google.com/spreadsheets/d/1IUalI6zCC1hw-A6R_MYvj6BelLBAE2gg/edit?usp=drive_link&ouid=109834936804106220766&rtpof=true&sd=true)
 - [Business Intelligence Report](https://drive.google.com/file/d/16CcuViWLgNjG4HeBcP7bi_xN6xzLgrmQ/view?usp=drive_link)
   
-- Created data visualisation and dashboards and maintained dashboards using Excel, enabling stakeholders to track key performance indicators (KPIs) in real-time
-- Analysed large datasets to identify trends, patterns, and insights that informed business decisions, resulting in a 10% increase in customer retention
+-	Created and maintained KPI dashboards for tracking occupancy, revenue, and customer satisfaction using Excel and Power BI.
+-	Identified actionable trends that led to a 15% increase in property revenue and a 10% improvement in customer retention.
 - Provided actionable recommendations to management, contributing to a 15% growth in revenue.
 
 # Education
